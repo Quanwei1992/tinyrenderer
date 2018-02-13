@@ -4,8 +4,8 @@ set(C_STANDARD 11)
 project(TinyRenderer)
 
 set(SRC 
-    tgaimage/tagimage.h
-    tgaimage/tagimage.cpp
+    tgaimage/tgaimage.h
+    tgaimage/tgaimage.cpp
     main.cpp
 )
 
