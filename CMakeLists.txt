@@ -6,6 +6,8 @@ project(TinyRenderer)
 set(SRC 
     tgaimage/tgaimage.h
     tgaimage/tgaimage.cpp
+    model.h
+    model.cpp
     main.cpp
 )
 
